@@ -1,4 +1,4 @@
 # hello-world
 Test Repository
 
-Hello, my name is Bruce and this is a test message for my new branch. 
+This file is my make and commit changes for hello-world. 
